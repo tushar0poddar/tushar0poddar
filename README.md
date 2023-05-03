@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tushar Poddar
-- 👀 I’m interested in Blockchain or WEB 3.O
+- 👀 I’m interested Cloud, Devops and microservices
 - 🌱 I’m currently learning Backend / Server side development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 Anyone wants to contact me then here is my Instagram id: tusharpoddar12
