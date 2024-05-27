@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tushar Poddar
-- 👀 I’m interested Cloud, DevOps and microservices
-- 🌱 I’m currently learning Backend / Server side development
+- 👀 I’m interested in Cloud Architecture, Security and ML
+- 🌱 I’m currently learning Data Science and Machine Learning
 - 📫 Anyone wants to contact me then here is my Instagram ID: tusharpoddar12
 
 <!---
